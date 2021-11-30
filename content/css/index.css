@@ -367,6 +367,7 @@ a.button-plan{
 
 .group_content-custumer:hover{
     border-color: var(--main-color);
+    cursor:pointer;
 }
 
 .group_header_content-customer{
