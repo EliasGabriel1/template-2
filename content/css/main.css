@@ -11,9 +11,13 @@
     --ton-border-2:#c1c1c1;
     --ton-white-1:#FFFFFF;
     --ton-white-2:#F4F4F4;
+    --ton-white-3:#DDDDDD;
+    --ton-white-4:#DDDDDD;
     --ton-black-1:#30235B;
     --ton-black-2:#000000;
+    --ton-black-3:#0B132A;
     --background-footer:#F6F6F6;
+    --color-footer:#AFB5C0;
     --transform-temp1: -45deg;
     --transform-temp2: 45deg;
 }
